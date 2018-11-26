@@ -3,7 +3,7 @@
 # MAGIC 
 # MAGIC Copyright (c) Microsoft Corporation. All rights reserved.
 # MAGIC 
-# MAGIC Licensed under the MIT License.
+# MAGIC Licensed under the MIT License. jdljdl
 
 # COMMAND ----------
 
